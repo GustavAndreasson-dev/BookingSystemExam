@@ -1,7 +1,6 @@
 # Booking System – individual coding exam
 
-This is a starter project for the individual practical coding exam. The
-application targets .NET 10 and contains a console application and xUnit tests.
+This is the finished project with the fixes as per the instructions.
 
 ## Requirements
 
@@ -19,5 +18,3 @@ dotnet run --project src/BookingSystem
 dotnet test
 ```
 
-Read the separate assignment instructions before starting. The existing code
-is incomplete and contains intentional defects.
